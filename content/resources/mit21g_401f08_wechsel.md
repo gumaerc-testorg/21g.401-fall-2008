@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains the information regarding ihr arbeitsplatz.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-401-german-i-fall-2008/0c2eb9f308d1fed027f66738fe047509_MIT21G_401F08_wechsel.pdf
+file: /media/courses/21g-401-german-i-fall-2008/0c2eb9f308d1fed027f66738fe047509_MIT21G_401F08_wechsel.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: Ihr Arbeitsplatz
 uid: 0c2eb9f3-08d1-fed0-27f6-6738fe047509

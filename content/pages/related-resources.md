@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 30b41879-4ff7-243b-5001-924e19ec8a74
 ---
@@ -194,7 +196,7 @@ Podcasts
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="7" >}}
 [Deutsche Welle](http://www.dw-world.de/dw/0,2142,9540,00.html)
 {{< tdclose >}}
 {{< tdopen >}}
@@ -260,7 +262,7 @@ Alltagsdeutsch
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Deutschlandfunk / Deutschland Radio Kultur](https://www.deutschlandradio.de/)
 {{< tdclose >}}
 {{< tdopen >}}
@@ -305,7 +307,7 @@ Informationen am Morgen
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 WDR ([Video](http://www.wdr.de/tv/podcast/)) ([Audio](http://www.wdr.de/radio/home/podcasts/index.phtml))
 {{< tdclose >}}
 {{< tdopen >}}
@@ -350,7 +352,7 @@ WDR3 Themen des Tages
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Schweizer Radio DRS](http://www.drs.ch/www/de/drs/podcasts.html)
 {{< tdclose >}}
 {{< tdopen >}}
@@ -380,7 +382,7 @@ Tagesgespräch
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Schweizer Fernsehen](http://www.sf.tv/podcasts/index.php)
 {{< tdclose >}}
 {{< tdopen >}}

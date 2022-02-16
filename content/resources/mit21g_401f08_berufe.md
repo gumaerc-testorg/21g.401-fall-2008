@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains the information regarding berufe und arbeit.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-401-german-i-fall-2008/9127f0e7767c30f4ebfc782ddc4a26ec_MIT21G_401F08_berufe.pdf
+file: /media/courses/21g-401-german-i-fall-2008/9127f0e7767c30f4ebfc782ddc4a26ec_MIT21G_401F08_berufe.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: Berufe und Arbeit
 uid: 9127f0e7-767c-30f4-ebfc-782ddc4a26ec

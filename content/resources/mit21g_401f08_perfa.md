@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains the information regarding perfekt + weak verbs.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-401-german-i-fall-2008/1ebda27d797509e8956eec8c6024048e_MIT21G_401F08_perfa.pdf
+file: /media/courses/21g-401-german-i-fall-2008/1ebda27d797509e8956eec8c6024048e_MIT21G_401F08_perfa.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: Perfekt + weak verbs
 uid: 1ebda27d-7975-09e8-956e-ec8c6024048e
