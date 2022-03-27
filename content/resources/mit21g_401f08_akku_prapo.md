@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b0ca1507-cf3d-dcef-45ce-f688a86a6079
 resourcetype: Document
 title: "Akkusativ Pr\xE4positionen"
 uid: 8f72b614-d56f-6ba8-76ce-30942d076d58

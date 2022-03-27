@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b0ca1507-cf3d-dcef-45ce-f688a86a6079
 resourcetype: Document
 title: "Pr\xE4positionen + Akkusativ + Negation + Imperativ"
 uid: 4e7c827a-60a8-a2b8-961c-04a872757044

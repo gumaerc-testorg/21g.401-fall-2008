@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b0ca1507-cf3d-dcef-45ce-f688a86a6079
 resourcetype: Document
 title: Akkusativ
 uid: 1267d6a8-6a4d-b5f7-bc13-071146f08bc6

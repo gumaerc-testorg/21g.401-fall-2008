@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b0ca1507-cf3d-dcef-45ce-f688a86a6079
 resourcetype: Document
 title: Julia
 uid: 0bb23d51-70db-a113-d361-45606495d36b

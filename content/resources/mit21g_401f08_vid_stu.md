@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b0ca1507-cf3d-dcef-45ce-f688a86a6079
 resourcetype: Document
 title: 'Video: Studieren in Deutschland '
 uid: 0d1addac-e514-59ef-c94a-a99b251e3f13

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b0ca1507-cf3d-dcef-45ce-f688a86a6079
 resourcetype: Document
 title: Freizeit und Arbeit
 uid: 30a8eac6-4d85-3ca2-3f25-0608ebdc9ef6

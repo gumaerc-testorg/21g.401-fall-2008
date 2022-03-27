@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0c32780f-9c70-41bd-dc15-d9dcfe01aeba
 resourcetype: Document
 title: Bern und Salzberg
 uid: 8b047496-f8dd-22d7-9f61-6b3f8c425e01

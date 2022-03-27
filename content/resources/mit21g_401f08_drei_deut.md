@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b0ca1507-cf3d-dcef-45ce-f688a86a6079
 resourcetype: Document
 title: Drei Deutsche bei der Arbeit
 uid: fb35b1cd-6360-c67e-9a3a-72929a53bd3c

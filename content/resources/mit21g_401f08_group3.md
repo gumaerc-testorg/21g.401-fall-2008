@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0c32780f-9c70-41bd-dc15-d9dcfe01aeba
 resourcetype: Document
 title: Wien
 uid: 103a731a-03af-2f9f-94d2-bdad98fa3ea7

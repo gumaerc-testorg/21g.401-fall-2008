@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b0ca1507-cf3d-dcef-45ce-f688a86a6079
 resourcetype: Document
 title: "Fragen zum Video \u2013 \u201CWo \xFCbernachten wir?\u201D"
 uid: fd130272-0a20-23fe-18f3-e1a7b5264e4a

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b0ca1507-cf3d-dcef-45ce-f688a86a6079
 resourcetype: Document
 title: "St\xE4dte in Deutschland"
 uid: 9967fd5c-bdc7-deea-4c6e-965182a458d3

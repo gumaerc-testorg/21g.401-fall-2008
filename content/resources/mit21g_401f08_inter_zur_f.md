@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b0ca1507-cf3d-dcef-45ce-f688a86a6079
 resourcetype: Document
 title: Ein interview mit meinem mitsstudenten / meiner mitstudentin
 uid: 3cd83dbf-c708-83ed-194a-0a705f8d2d03

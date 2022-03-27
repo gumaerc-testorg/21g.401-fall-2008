@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b0ca1507-cf3d-dcef-45ce-f688a86a6079
 resourcetype: Document
 title: "Fragen zum Video \u2013 \u201CWer ist denn das?\u201D"
 uid: 03d4e52c-e537-b1a1-9460-e6cc9c62c79f

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b0ca1507-cf3d-dcef-45ce-f688a86a6079
 resourcetype: Document
 title: "gern + Verb / gern + haben / m\xF6gen / m\xF6chten"
 uid: 4747a32d-e8d9-ff13-b3cf-6b6776a9ef52

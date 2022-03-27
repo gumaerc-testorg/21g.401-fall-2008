@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b0ca1507-cf3d-dcef-45ce-f688a86a6079
 resourcetype: Document
 title: 'Wiederholung: imperativ / modalverben'
 uid: 4961df53-b0cb-d395-9fbd-1855ece0fd85
