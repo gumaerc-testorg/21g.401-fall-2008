@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides handouts for the class activities.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: b0ca1507-cf3d-dcef-45ce-f688a86a6079
 ---
@@ -42,9 +45,9 @@ Greetings and classroom expressions. Visit of LLARC
 {{< tdopen >}}
 
 
-Language background questionnaire ([PDF]({{< baseurl >}}/resources/mit21g_401f08_back))
+Language background questionnaire ({{% resource_link afe05511-7c75-05b4-24d2-1c0cc32feef3 "PDF" %}})
 
-Essay corrections key ([PDF]({{< baseurl >}}/resources/mit21g_401f08_essay))
+Essay corrections key ({{% resource_link 6eb347f0-d6bc-eaca-5d57-9f89f1194bd5 "PDF" %}})
 
 Die Prinzen, "[Deutschland](http://www.youtube.com/watch?v=UH4S9RQv5Os
 )." (video hosted by YouTube) Lyrics in [German](http://german.about.com/library/blmus_prinzen01.htm), [English](http://german.about.com/library/blmus_prinzen01e.htm).
@@ -63,9 +66,9 @@ Review sounds of German, greetings, classroom expressions, days of the week, tal
 {{< tdopen >}}
 
 
-Abkuerzungen ([PDF]({{< baseurl >}}/resources/mit21g_401f08_abkuerzu))
+Abkuerzungen ({{% resource_link f0773d93-2e48-2f6f-a476-2ab5ea632475 "PDF" %}})
 
-Kinderreime ([PDF]({{< baseurl >}}/resources/mit21g_401f08_kind))
+Kinderreime ({{% resource_link 64e135ed-e762-5ae4-5796-3e235fde9bfa "PDF" %}})
 
 
 {{< tdclose >}}
@@ -91,7 +94,7 @@ Introduction to chapter 1: Dialoge und Wortschatz
 
 {{< tdclose >}}
 {{< tdopen >}}
-Mo-Do feat. Bangbros, "[Eins Zwei Polizei](http://www.youtube.com/watch?v=Sdw682H5Cgg)." (video hosted by YouTube) Lyrics ([PDF]({{< baseurl >}}/resources/mit21g_401f08_mo_dol))
+Mo-Do feat. Bangbros, "[Eins Zwei Polizei](http://www.youtube.com/watch?v=Sdw682H5Cgg)." (video hosted by YouTube) Lyrics ({{% resource_link ca17fece-67f2-25c6-a4cf-39458de1f201 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,9 +156,9 @@ Introduction to chapter 2: Dialoge und Wortschatz
 {{< tdopen >}}
 
 
-Dialoge zu den Bildern: Sie oder du? ([PDF]({{< baseurl >}}/resources/mit21g_401f08_dia_kap1))
+Dialoge zu den Bildern: Sie oder du? ({{% resource_link 44163c5c-4b99-5e5e-a39f-b2254108345b "PDF" %}})
 
-Schreiben Sie einen Dialog! ([PDF]({{< baseurl >}}/resources/mit21g_401f08_schreiben))
+Schreiben Sie einen Dialog! ({{% resource_link 73ea2613-236d-2342-9964-410acf8ee794 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -185,15 +188,15 @@ Grammatik: haben, Accusative case, accusative personal pronouns
 {{< tdopen >}}
 
 
-Fragen zu den Dialogen ([PDF]({{< baseurl >}}/resources/mit21g_401f08_variat))
+Fragen zu den Dialogen ({{% resource_link 6d420aea-988b-3ae2-fd59-c904bcf454aa "PDF" %}})
 
-Fragen zum video ([PDF]({{< baseurl >}}/resources/mit21g_401f08_vid_kap1))
+Fragen zum video ({{% resource_link 03d4e52c-e537-b1a1-9460-e6cc9c62c79f "PDF" %}})
 
-Akkusativ ([PDF]({{< baseurl >}}/resources/mit21g_401f08_akkusativ))
+Akkusativ ({{% resource_link 1267d6a8-6a4d-b5f7-bc13-071146f08bc6 "PDF" %}})
 
-Pronouns ([PDF]({{< baseurl >}}/resources/mit21g_401f08_akku_pro))
+Pronouns ({{% resource_link 586129d7-c582-9772-b61d-faeba3914bd0 "PDF" %}})
 
-Nominativ-Akkusativ ([PDF]({{< baseurl >}}/resources/mit21g_401f08_nomi_akku))
+Nominativ-Akkusativ ({{% resource_link 642a87df-5787-5c05-d76d-da582365c11d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -215,9 +218,9 @@ Introduction to Lesestück: "Die familie heute"
 {{< tdopen >}}
 
 
-Grammatikwiederholung ([PDF]({{< baseurl >}}/resources/mit21g_401f08_gramat))
+Grammatikwiederholung ({{% resource_link f3b0db79-de8e-6446-7de3-53d5c693e5e7 "PDF" %}})
 
-Vokabelwiederholung ([PDF]({{< baseurl >}}/resources/mit21g_401f08_vo_ka1_2))
+Vokabelwiederholung ({{% resource_link a7a65e77-61fb-34b3-4596-1385d2ae0207 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -241,7 +244,7 @@ Numbers above 20
 {{< tdopen >}}
 
 
-Interview ([PDF]({{< baseurl >}}/resources/mit21g_401f08_inter_zur_f))
+Interview ({{% resource_link 3cd83dbf-c708-83ed-194a-0a705f8d2d03 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -289,7 +292,7 @@ Video: "Ist das Zimmer noch frei?", activities, discussion
 
 {{< tdclose >}}
 {{< tdopen >}}
-Fragen zum video ([PDF]({{< baseurl >}}/resources/mit21g_401f08_vid_kap2))
+Fragen zum video ({{% resource_link fd130272-0a20-23fe-18f3-e1a7b5264e4a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -331,9 +334,9 @@ Grammatik: modal verbs, stem-vowel change a>ä, au>äu
 {{< tdopen >}}
 
 
-Interview ([PDF]({{< baseurl >}}/resources/mit21g_401f08_inter_zu_di))
+Interview ({{% resource_link 5b1ac804-e1b1-d23b-9933-c1f477f0f83f "PDF" %}})
 
-Grammatik ([PDF]({{< baseurl >}}/resources/mit21g_401f08_modal))
+Grammatik ({{% resource_link aaf7b604-2803-d680-8adf-073dda81f139 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -361,9 +364,9 @@ Einführung zum Lesestück: "Eine Klassendiskussion", Wortschatz 2
 {{< tdopen >}}
 
 
-Eine Klassendiskussion ([PDF]({{< baseurl >}}/resources/mit21g_401f08_klass))
+Eine Klassendiskussion ({{% resource_link e7bfe7b8-60e2-5e59-3b29-a75e3963cefd "PDF" %}})
 
-Negation ([PDF]({{< baseurl >}}/resources/mit21g_401f08_negation))
+Negation ({{% resource_link 72b2965f-579c-6f05-6d34-f6d2a4cb06d1 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -383,7 +386,7 @@ Grammatik: man, compound words
 
 {{< tdclose >}}
 {{< tdopen >}}
-Modalverben Wiederholung ([PDF]({{< baseurl >}}/resources/mit21g_401f08_modalverb))
+Modalverben Wiederholung ({{% resource_link 21980f9a-2dbf-a886-0ad5-ed84df31b821 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -425,11 +428,11 @@ Grammatik: Präpositionen + Akkusativ, time phrases in the accusative, Imperativ
 {{< tdopen >}}
 
 
-Akkusativ + Präpositionen ([PDF]({{< baseurl >}}/resources/mit21g_401f08_akku_prapo))
+Akkusativ + Präpositionen ({{% resource_link 8f72b614-d56f-6ba8-76ce-30942d076d58 "PDF" %}})
 
-Imperativ ([PDF]({{< baseurl >}}/resources/mit21g_401f08_imperativ))
+Imperativ ({{% resource_link 4961df53-b0cb-d395-9fbd-1855ece0fd85 "PDF" %}})
 
-Präpositionen + Akkusativ + Negation + Imperativ ([PDF]({{< baseurl >}}/resources/mit21g_401f08_pani))
+Präpositionen + Akkusativ + Negation + Imperativ ({{% resource_link 4e7c827a-60a8-a2b8-961c-04a872757044 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -463,7 +466,7 @@ Einführung zum Lesestück: "Deutschland: Geographie und Klima"
 {{< tdopen >}}
 
 
-[Landkarte Deutschland](http://histgeo.ac-aix-marseille.fr/webphp/carte.php?num_car=1104&lang=fr), Fragen ([PDF]({{< baseurl >}}/resources/mit21g_401f08_wo_deut))
+[Landkarte Deutschland](http://histgeo.ac-aix-marseille.fr/webphp/carte.php?num_car=1104&lang=fr), Fragen ({{% resource_link 0ea3bb6e-4685-f0f9-59a2-a788de2ecda4 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -483,7 +486,7 @@ Rundfrage: "Was magst du? Was machst du gern?" (Photokopie)
 
 {{< tdclose >}}
 {{< tdopen >}}
-Partnerarbeit: gern+mögen+möchte ([PDF]({{< baseurl >}}/resources/mit21g_401f08_mogen))
+Partnerarbeit: gern+mögen+möchte ({{% resource_link 4747a32d-e8d9-ff13-b3cf-6b6776a9ef52 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -505,9 +508,9 @@ Klima, Wetter, Landschaft
 {{< tdopen >}}
 
 
-Partnerarbeit: Städte in Deutschland ([PDF]({{< baseurl >}}/resources/mit21g_401f08_stad_deut))
+Partnerarbeit: Städte in Deutschland ({{% resource_link 9967fd5c-bdc7-deea-4c6e-965182a458d3 "PDF" %}})
 
-Gruppenarbeit: Bilder ([PDF]({{< baseurl >}}/resources/mit21g_401f08_bilder_rf)), Reisen und Ferien ([PDF]({{< baseurl >}}/resources/mit21g_401f08_reisen_feri))
+Gruppenarbeit: Bilder ({{% resource_link c2e0309c-5e49-861e-35e8-16bddf8e4157 "PDF" %}}), Reisen und Ferien ({{% resource_link 6693c95e-0dde-9679-b543-c66e5086e2cb "PDF" %}})
 
 
 {{< tdclose >}}
@@ -527,7 +530,7 @@ Gruppenarbeit: Bilder ([PDF]({{< baseurl >}}/resources/mit21g_401f08_bilder_rf))
 Wiederholung: Kapitel 3+4 (Grammatik und Vokabeln)
 {{< tdclose >}}
 {{< tdopen >}}
-Wiederholung ([PDF]({{< baseurl >}}/resources/mit21g_401f08_widkap3_4))
+Wiederholung ({{% resource_link 7ec64c1e-bb3d-0930-579a-27766ef38b07 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -567,7 +570,7 @@ Grammatik: dative case, pronouns, word order of objects
 
 {{< tdclose >}}
 {{< tdopen >}}
-"Freizeit und Arbeit" ([PDF]({{< baseurl >}}/resources/mit21g_401f08_freiz_arbe))
+"Freizeit und Arbeit" ({{% resource_link 30a8eac6-4d85-3ca2-3f25-0608ebdc9ef6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -591,7 +594,7 @@ Grammatik: dative prepositions
 
 {{< tdclose >}}
 {{< tdopen >}}
-Präpositionen mit Dativ ([PDF]({{< baseurl >}}/resources/mit21g_401f08_dativ_pra))
+Präpositionen mit Dativ ({{% resource_link 49bf8d5e-c44e-aab4-9860-ca3bd4ace7bd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -623,7 +626,7 @@ Lesestück: "Drei Deutsche bei der Arbeit"
 
 {{< tdclose >}}
 {{< tdopen >}}
-"Drei Deutsche bei der Arbeit" ([PDF]({{< baseurl >}}/resources/mit21g_401f08_drei_deut))
+"Drei Deutsche bei der Arbeit" ({{% resource_link fb35b1cd-6360-c67e-9a3a-72929a53bd3c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -645,7 +648,7 @@ Einführung in die Dialoge für Kapitel 6
 {{< tdopen >}}
 
 
-"Berufe und Arbeit" ([PDF]({{< baseurl >}}/resources/mit21g_401f08_berufe))
+"Berufe und Arbeit" ({{% resource_link 9127f0e7-767c-30f4-ebfc-782ddc4a26ec "PDF" %}})
 
 
 {{< tdclose >}}
@@ -673,9 +676,9 @@ Grammatik: war, perfect tense of weak and strong verbs
 {{< tdopen >}}
 
 
-Perfekt — Variationen + Dialog ([PDF]({{< baseurl >}}/resources/mit21g_401f08_perf_dia))
+Perfekt — Variationen + Dialog ({{% resource_link d75ff60b-710e-9c1a-e210-94a5864fb9ed "PDF" %}})
 
-Perfekt + weak verbs, A ([PDF]({{< baseurl >}}/resources/mit21g_401f08_perfa)), B ([PDF]({{< baseurl >}}/resources/mit21g_401f08_perfb))
+Perfekt + weak verbs, A ({{% resource_link 1ebda27d-7975-09e8-956e-ec8c6024048e "PDF" %}}), B ({{% resource_link 5717c8f4-9966-5ada-4365-ed196f0c16c7 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -697,11 +700,11 @@ Lyrik zum Vorlesen
 {{< tdopen >}}
 
 
-Kettenreaktion ([PDF]({{< baseurl >}}/resources/mit21g_401f08_ketten))
+Kettenreaktion ({{% resource_link 15742720-fd55-2e7f-5ba7-905081322a5e "PDF" %}})
 
-Letztes Wochenende ([PDF]({{< baseurl >}}/resources/mit21g_401f08_wochen))
+Letztes Wochenende ({{% resource_link 1b1b2912-5969-6350-441b-63b407494901 "PDF" %}})
 
-Gestern, Letzte Sommer ([PDF]({{< baseurl >}}/resources/mit21g_401f08_gestern))
+Gestern, Letzte Sommer ({{% resource_link c7bd4941-94a2-2f22-dd2c-37a981f176ca "PDF" %}})
 
 
 {{< tdclose >}}
@@ -723,11 +726,11 @@ Einführung in das Lesestück: "Ein Brief aus Freiburg"
 {{< tdopen >}}
 
 
-Im Theater ([PDF]({{< baseurl >}}/resources/mit21g_401f08_theater))
+Im Theater ({{% resource_link dd958c63-ca54-80e3-d33a-83d7067e2e36 "PDF" %}})
 
-Setzen/Sitzen, etc. ([PDF]({{< baseurl >}}/resources/mit21g_401f08_sitzen_set))
+Setzen/Sitzen, etc. ({{% resource_link ed4ad9fb-7d23-6e2c-859f-755b2ef82d2d "PDF" %}})
 
-Interview zum Studium ([PDF]({{< baseurl >}}/resources/mit21g_401f08_studium))
+Interview zum Studium ({{% resource_link a2625aac-d6e3-45fb-4cbc-877ab817d566 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -743,13 +746,13 @@ Lesestück: "Ein Brief aus Freiburg", Studienfächer, das Studentenzimmer
 {{< tdopen >}}
 
 
-Das Studentleben ([PDF]({{< baseurl >}}/resources/mit21g_401f08_das_stu))
+Das Studentleben ({{% resource_link b372253e-58bc-8d14-0c05-59a2d1bcadd5 "PDF" %}})
 
-Julia hat endlich ein Zimmer ([PDF]({{< baseurl >}}/resources/mit21g_401f08_julia))
+Julia hat endlich ein Zimmer ({{% resource_link 0bb23d51-70db-a113-d361-45606495d36b "PDF" %}})
 
-Studienfächer ([PDF]({{< baseurl >}}/resources/mit21g_401f08_studien))
+Studienfächer ({{% resource_link c5d73dc0-7588-3660-262c-0af96f4e2ab9 "PDF" %}})
 
-Aufräumen ([PDF]({{< baseurl >}}/resources/mit21g_401f08_aufraumen))
+Aufräumen ({{% resource_link 71af7198-50c6-9bae-0f22-d0387c90e084 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -779,9 +782,9 @@ Vor dem Video: "Studieren in Deutschland," Sudesh Sharma, Christian Fahé; Brief
 
 [Arbeitsblatt](http://www.nthuleen.com/102/hausaufgaben/ws05wechsel2.html)
 
-Ein interview ([PDF]({{< baseurl >}}/resources/mit21g_401f08_ein_inter))
+Ein interview ({{% resource_link 770935bc-8b77-f4ce-e1b8-c74b52172020 "PDF" %}})
 
-Wiederholung Kapiteln 5+6 ([PDF]({{< baseurl >}}/resources/mit21g_401f08_wiedl_5_6))
+Wiederholung Kapiteln 5+6 ({{% resource_link db7d0c5a-efd1-96e7-5385-bdebe8b172d5 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -801,7 +804,7 @@ Wiederholung für die Prüfung zu Kapiteln 5+6
 
 {{< tdclose >}}
 {{< tdopen >}}
-Video: "Studieren in Deutschland" ([PDF]({{< baseurl >}}/resources/mit21g_401f08_vid_stu))
+Video: "Studieren in Deutschland" ({{% resource_link 0d1addac-e514-59ef-c94a-a99b251e3f13 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -831,7 +834,7 @@ Einführung: Kapitel 7 Dialoge
 
 [Video: "Wanderers Nachtlied" von Franz Schubert](http://www.youtube.com/watch?v=jtkwWDfsqpw) (video hosted by YouTube)
 
-More information on Goethe can be found on the [related resources]({{< baseurl >}}/pages/related-resources) page.
+More information on Goethe can be found on the {{% resource_link 30b41879-4ff7-243b-5001-924e19ec8a74 "related resources" %}} page.
 
 
 {{< tdclose >}}
@@ -871,7 +874,7 @@ Grammatik: der/ein-words, coordinating conjunctions, verbs + dative objects
 Grammatik: personal dative, würde + infinitive; 2-way prepositions + legen/liegen
 {{< tdclose >}}
 {{< tdopen >}}
-Wechselpräpositionen ([PDF]({{< baseurl >}}/resources/mit21g_401f08_wechsel))
+Wechselpräpositionen ({{% resource_link 0c2eb9f3-08d1-fed0-27f6-6738fe047509 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -901,9 +904,9 @@ Lyrik zum Vorlesen
 {{< tdopen >}}
 
 
-Transportmittel ([PDF]({{< baseurl >}}/resources/mit21g_401f08_trans))
+Transportmittel ({{% resource_link 7abad634-334c-6d1f-1ef1-5b0407963452 "PDF" %}})
 
-Womit fahren Sie? ([PDF]({{< baseurl >}}/resources/mit21g_401f08_womi))
+Womit fahren Sie? ({{% resource_link 1dd8b2ea-3d4e-1545-5a52-830063c6b205 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -917,7 +920,7 @@ Womit fahren Sie? ([PDF]({{< baseurl >}}/resources/mit21g_401f08_womi))
 Lesestück: "Unterwegs mit Fahrrad, Auto und der Bahn"
 {{< tdclose >}}
 {{< tdopen >}}
-Unterwegs ([PDF]({{< baseurl >}}/resources/mit21g_401f08_unter))
+Unterwegs ({{% resource_link 92135c97-0a1b-356d-8b05-b6125b84a863 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -959,11 +962,11 @@ Grammatik: subordinating clauses, conjunctions
 {{< tdopen >}}
 
 
-Im Restaurant ([PDF]({{< baseurl >}}/resources/mit21g_401f08_restaurant))
+Im Restaurant ({{% resource_link c0cccd0d-bf7d-def2-b354-f8f5ea0eb496 "PDF" %}})
 
-Konjunktionen — dass / wenn / weil ([PDF]({{< baseurl >}}/resources/mit21g_401f08_konjun))
+Konjunktionen — dass / wenn / weil ({{% resource_link e2a4a4dc-65ce-c9fa-b877-22ecf83e8f67 "PDF" %}})
 
-Subordinierende Konjunktionen ([PDF]({{< baseurl >}}/resources/mit21g_401f08_subord))
+Subordinierende Konjunktionen ({{% resource_link a26690c2-98e3-5254-c7fb-e0440717dc59 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -993,13 +996,13 @@ Grammatik: infinitive constructions, Genitiv und Präpositionen
 {{< tdopen >}}
 
 
-Wie sagt man das? ([PDF]({{< baseurl >}}/resources/mit21g_401f08_genitiv1))
+Wie sagt man das? ({{% resource_link bf96d3e9-3431-e665-bfcd-8d31cd2f6fbe "PDF" %}})
 
-Eine Ferienreise ([PDF]({{< baseurl >}}/resources/mit21g_401f08_genitiv2))
+Eine Ferienreise ({{% resource_link 68cccc66-3a0f-461c-a2b1-bbd84f6fc035 "PDF" %}})
 
-Worüber sprechen sie? ([PDF]({{< baseurl >}}/resources/mit21g_401f08_genitiv4))
+Worüber sprechen sie? ({{% resource_link 47d383e7-bba0-5a98-7e48-a9411355698a "PDF" %}})
 
-zu + Infinitiv ([PDF]({{< baseurl >}}/resources/mit21g_401f08_zu_inf))
+zu + Infinitiv ({{% resource_link 5df5cf8d-98ad-d59d-d226-dcd02e3402b9 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -1043,7 +1046,7 @@ Am Tisch
 
 {{< tdclose >}}
 {{< tdopen >}}
-Aspekte der Großstadt ([PDF]({{< baseurl >}}/resources/mit21g_401f08_groastadt))
+Aspekte der Großstadt ({{% resource_link 7349b45f-5b78-faae-a180-84c551f93620 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -1075,7 +1078,7 @@ Wiederholung der Kapitel 7+8
 Wiederholung für die Prüfung
 {{< tdclose >}}
 {{< tdopen >}}
-Wiederholungsübungen Kapitel 7+8 ([PDF]({{< baseurl >}}/resources/mit21g_401f08_wid_kap7_8)), answers ([PDF]({{< baseurl >}}/resources/mit21g_401f08_wid7_8_ans))
+Wiederholungsübungen Kapitel 7+8 ({{% resource_link 5358c5df-a54e-975b-31ee-41e748701597 "PDF" %}}), answers ({{% resource_link 00c473a2-c965-1e5e-7cd7-ba5ded1ad23a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -1089,9 +1092,9 @@ Prüfung zu Kapiteln 7+8
 {{< tdopen >}}
 
 
-Eine Reise planen ([PDF]({{< baseurl >}}/resources/mit21g_401f08_reise))
+Eine Reise planen ({{% resource_link 48d51cf2-9c9f-feb2-ca61-20ecf711e730 "PDF" %}})
 
-Final feedback questionnaire ([PDF]({{< baseurl >}}/resources/mit21g_401f08_final_feed))
+Final feedback questionnaire ({{% resource_link 96d40e26-1c49-db00-2d95-22fb0d219d25 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -1123,7 +1126,7 @@ Eine Städtetour planen: deutsche Städte im WWW
 Städtetour und Semesterschluss
 {{< tdclose >}}
 {{< tdopen >}}
-Please see the [projects]({{< baseurl >}}/pages/projects) page for sample student presentations.
+Please see the {{% resource_link 0c32780f-9c70-41bd-dc15-d9dcfe01aeba "projects" %}} page for sample student presentations.
 {{< tdclose >}}
 
 {{< trclose >}}

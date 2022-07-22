@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, texts,
+  classes, language lab, the audio program, homework, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 0fbb0cb7-c126-1fb1-cce5-8776ad3b67c2
 ---
@@ -18,7 +22,7 @@ Dollenmayer, David, Ellen W. Crocker, and Thomas Hansen. _Workbook/Laboratory Ma
 
 Zorach, Cecile, and Charlotte Melin. _English Grammar for Students of German_. 4th ed. Ann Arbor, MI: Olivia & Hill Press, 2001. ISBN: 9780934034319.
 
-Additional handouts on various aspects of culture as well as grammar and functional expressions can be found on the [study materials]({{< baseurl >}}/pages/study-materials) page.
+Additional handouts on various aspects of culture as well as grammar and functional expressions can be found on the {{% resource_link b0ca1507-cf3d-dcef-45ce-f688a86a6079 "study materials" %}} page.
 
 Classes
 -------
