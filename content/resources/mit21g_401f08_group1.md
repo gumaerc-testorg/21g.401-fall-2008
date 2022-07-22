@@ -5,6 +5,7 @@ file: /courses/21g-401-german-i-fall-2008/db781010fc86a449c90b4addbb293224_MIT21
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Slide 1
 uid: db781010-fc86-a449-c90b-4addbb293224
 ---
 This resource contains the information regarding slide 1.
-

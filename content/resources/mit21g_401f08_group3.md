@@ -5,6 +5,7 @@ file: /courses/21g-401-german-i-fall-2008/103a731a03af2f9f94d2bdad98fa3ea7_MIT21
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Wien
 uid: 103a731a-03af-2f9f-94d2-bdad98fa3ea7
 ---
 This resource contains the information regarding wien.
-
