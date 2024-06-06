@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding wo in Deutschland?.
 file: /courses/21g-401-german-i-fall-2008/0ea3bb6e4685f0f959a2a788de2ecda4_MIT21G_401F08_wo_deut.pdf
+file_size: 120124
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding ihr arbeitsplatz.
 file: /courses/21g-401-german-i-fall-2008/0c2eb9f308d1fed027f66738fe047509_MIT21G_401F08_wechsel.pdf
+file_size: 146849
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
