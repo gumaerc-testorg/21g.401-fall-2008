@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains the information regarding wiederholung: kapitel
   5+6.'
 file: /courses/21g-401-german-i-fall-2008/db7d0c5aefd196e75385bdebe8b172d5_MIT21G_401F08_wiedl_5_6.pdf
+file_size: 615889
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

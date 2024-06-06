@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding konjunktionen.
 file: /courses/21g-401-german-i-fall-2008/a26690c298e35254c7fbe0440717dc59_MIT21G_401F08_subord.pdf
+file_size: 613275
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

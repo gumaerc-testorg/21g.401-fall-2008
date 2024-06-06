@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding bilder.
 file: /courses/21g-401-german-i-fall-2008/c2e0309c5e49861e35e816bddf8e4157_MIT21G_401F08_bilder_rf.pdf
+file_size: 634521
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

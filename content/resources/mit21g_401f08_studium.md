@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding interview zum studium.
 file: /courses/21g-401-german-i-fall-2008/a2625aacd6e345fb4cbc877ab817d566_MIT21G_401F08_studium.pdf
+file_size: 588455
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
