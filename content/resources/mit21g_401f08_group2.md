@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding bern und salzberg.
 file: /courses/21g-401-german-i-fall-2008/8b047496f8dd22d79f616b3f8c425e01_MIT21G_401F08_group2.pdf
+file_size: 1214586
 file_type: application/pdf
 learning_resource_types:
 - Projects

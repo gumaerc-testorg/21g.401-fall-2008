@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding .
 file: /courses/21g-401-german-i-fall-2008/92135c970a1b356d8b05b6125b84a863_MIT21G_401F08_unter.pdf
+file_size: 593038
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
