@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding das studentenleben.
-file: /courses/21g-401-german-i-fall-2008/b372253e58bc8d140c0559a2d1bcadd5_MIT21G_401F08_das_stu.pdf
+file: /ol-ocw-studio-app/courses/21g-401-german-i-fall-2008/b372253e58bc8d140c0559a2d1bcadd5_MIT21G_401F08_das_stu.pdf
 file_size: 104768
 file_type: application/pdf
 learning_resource_types: []
