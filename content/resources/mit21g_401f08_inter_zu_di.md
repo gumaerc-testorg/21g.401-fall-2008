@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding interview mit ihrem
   partner.
-file: /courses/21g-401-german-i-fall-2008/5b1ac804e1b1d23b9933c1f477f0f83f_MIT21G_401F08_inter_zu_di.pdf
+file: /ol-ocw-studio-app/courses/21g-401-german-i-fall-2008/5b1ac804e1b1d23b9933c1f477f0f83f_MIT21G_401F08_inter_zu_di.pdf
 file_size: 102019
 file_type: application/pdf
 learning_resource_types: []
