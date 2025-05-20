@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding genitiv 2.
-file: /ol-ocw-studio-app/courses/21g-401-german-i-fall-2008/68cccc663a0f461ca2b1bbd84f6fc035_MIT21G_401F08_genitiv2.pdf
+file: /courses/21g-401-german-i-fall-2008/68cccc663a0f461ca2b1bbd84f6fc035_MIT21G_401F08_genitiv2.pdf
 file_size: 103645
 file_type: application/pdf
 learning_resource_types: []

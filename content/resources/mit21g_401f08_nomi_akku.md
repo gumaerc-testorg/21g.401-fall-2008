@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding nominativ - akkusativ.
-file: /ol-ocw-studio-app/courses/21g-401-german-i-fall-2008/642a87df57875c05d76dda582365c11d_MIT21G_401F08_nomi_akku.pdf
+file: /courses/21g-401-german-i-fall-2008/642a87df57875c05d76dda582365c11d_MIT21G_401F08_nomi_akku.pdf
 file_size: 164819
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding transportmitt.
-file: /ol-ocw-studio-app/courses/21g-401-german-i-fall-2008/7abad634334c6d1f1ef15b0407963452_MIT21G_401F08_trans.pdf
+file: /courses/21g-401-german-i-fall-2008/7abad634334c6d1f1ef15b0407963452_MIT21G_401F08_trans.pdf
 file_size: 334282
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding perfekt.
-file: /ol-ocw-studio-app/courses/21g-401-german-i-fall-2008/d75ff60b710e9c1ae21094a5864fb9ed_MIT21G_401F08_perf_dia.pdf
+file: /courses/21g-401-german-i-fall-2008/d75ff60b710e9c1ae21094a5864fb9ed_MIT21G_401F08_perf_dia.pdf
 file_size: 612140
 file_type: application/pdf
 learning_resource_types: []
