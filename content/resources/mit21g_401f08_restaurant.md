@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding im restaurant.
-file: /ol-ocw-studio-app/courses/21g-401-german-i-fall-2008/c0cccd0dbf7ddef2b354f8f5ea0eb496_MIT21G_401F08_restaurant.pdf
+file: /courses/21g-401-german-i-fall-2008/c0cccd0dbf7ddef2b354f8f5ea0eb496_MIT21G_401F08_restaurant.pdf
 file_size: 123391
 file_type: application/pdf
 learning_resource_types: []

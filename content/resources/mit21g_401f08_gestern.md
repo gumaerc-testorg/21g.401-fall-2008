@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding gestern.
-file: /ol-ocw-studio-app/courses/21g-401-german-i-fall-2008/c7bd494194a22f22dd2c37a981f176ca_MIT21G_401F08_gestern.pdf
+file: /courses/21g-401-german-i-fall-2008/c7bd494194a22f22dd2c37a981f176ca_MIT21G_401F08_gestern.pdf
 file_size: 597204
 file_type: application/pdf
 learning_resource_types: []

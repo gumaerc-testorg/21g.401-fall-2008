@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding drei deutsche bei der
   arbeit.
-file: /ol-ocw-studio-app/courses/21g-401-german-i-fall-2008/fb35b1cd6360c67e9a3a72929a53bd3c_MIT21G_401F08_drei_deut.pdf
+file: /courses/21g-401-german-i-fall-2008/fb35b1cd6360c67e9a3a72929a53bd3c_MIT21G_401F08_drei_deut.pdf
 file_size: 104857
 file_type: application/pdf
 learning_resource_types: []
