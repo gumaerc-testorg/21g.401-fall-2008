@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains the information regarding pr\xE4positionen mit\
   \ dativ."
-file: /courses/21g-401-german-i-fall-2008/49bf8d5ec44eaab49860ca3bd4ace7bd_MIT21G_401F08_dativ_pra.pdf
+file: /ol-ocw-studio-app/courses/21g-401-german-i-fall-2008/49bf8d5ec44eaab49860ca3bd4ace7bd_MIT21G_401F08_dativ_pra.pdf
 file_size: 155809
 file_type: application/pdf
 learning_resource_types: []

@@ -9,7 +9,7 @@ uid: 30b41879-4ff7-243b-5001-924e19ec8a74
 ---
 These following online resources may be useful to students.
 
-[Deutsche TV-Shows auf deinem Computer](http://rtl-now.rtl.de/)
+[Deutsche TV-Shows auf deinem Computer](https://web.archive.org/web/20080911200810/http://rtl-now.rtl.de/)
 
 [MISTI: MIT Germany](https://misti.mit.edu/mit-germany)
 
@@ -17,134 +17,134 @@ These following online resources may be useful to students.
 
 ### Überregionale Tageszeitungen
 
-Deutschland:      
-[BILD](http://www.bild.de/)      
-[Hannoversche Allgemeine Zeitung](http://www.haz.de/)      
-[Frankfurter Allgemeine Zeitung (FAZ)](http://www.faz.net/s/homepage.html)      
-[Frankfurter Rundschau](http://www.fr-online.de/)      
-[Süddeutsche Zeitung](http://www.sueddeutsche.de/)      
-[taz](http://www.taz.de/)      
+Deutschland:         
+[BILD](http://www.bild.de/)         
+[Hannoversche Allgemeine Zeitung](http://www.haz.de/)         
+[Frankfurter Allgemeine Zeitung (FAZ)](http://www.faz.net/s/homepage.html)         
+[Frankfurter Rundschau](http://www.fr-online.de/)         
+[Süddeutsche Zeitung](http://www.sueddeutsche.de/)         
+[taz](http://www.taz.de/)         
 [Die Welt](http://www.welt.de/)
 
-Österreich:      
+Österreich:         
 [Der Standard](http://derstandard.at/)
 
-Schweiz:      
-[Blick](http://www.blick.ch/)      
-[Neue Zürcher Zeitung](http://www.nzz.ch/)      
+Schweiz:         
+[Blick](http://www.blick.ch/)         
+[Neue Zürcher Zeitung](http://www.nzz.ch/)         
 [Tagesanzeiger](http://www.tages-anzeiger.ch/)
 
 ### Regionale Zeitungen
 
-Deutschland:      
-Berliner Abendblatt      
-[BerlinerTagesspiegel](http://www.tagesspiegel.de/)      
-[Express](http://www.express.de/)      
-[Frankenpost](http://www.frankenpost.de/)      
-[Freie Presse](http://www.freiepresse.de/TEXTE/NACHRICHTEN/)      
-[Hamburger Morgenpost](http://www.mopo.de/)      
-[Main Echo](http://www.main-echo.de/)      
-[Main Post](http://www.mainpost.de/)      
-Neue Westfälische Zeitung      
-Nordwest Presse      
-[Pforzheimer Zeitung](http://www.pz-news.de/)      
-[Rheinische Post](http://www.rp-online.de/)      
-Saarbrücker Zeitung      
-[Sächsische Zeitung](http://www.sz-online.de/)      
+Deutschland:         
+Berliner Abendblatt         
+[BerlinerTagesspiegel](http://www.tagesspiegel.de/)         
+[Express](http://www.express.de/)         
+[Frankenpost](http://www.frankenpost.de/)         
+[Freie Presse](http://www.freiepresse.de/TEXTE/NACHRICHTEN/)         
+[Hamburger Morgenpost](http://www.mopo.de/)         
+[Main Echo](http://www.main-echo.de/)         
+[Main Post](http://www.mainpost.de/)         
+Neue Westfälische Zeitung         
+Nordwest Presse         
+[Pforzheimer Zeitung](http://www.pz-news.de/)         
+[Rheinische Post](http://www.rp-online.de/)         
+Saarbrücker Zeitung         
+[Sächsische Zeitung](http://www.sz-online.de/)         
 [Schweriner Volkszeitung](http://www.svz.de/)
 
-Österreich:      
+Österreich:         
 [Wiener Zeitung](http://www.wienerzeitung.at/)
 
-Schweiz:      
-[Aargauer Zeitung](http://www.a-z.ch/medien/az)      
-[Berner Zeitung](http://www.bernerzeitung.ch/)      
-[Freiburger Nachrichten](http://www.freiburger-nachrichten.ch/)      
-Liechtensteiner Volksblatt      
-[Schaffhauser Nachrichten](http://www.shn.ch/)      
-[St. Galler Tagblatt](http://www.tagblatt.ch/)      
+Schweiz:         
+[Aargauer Zeitung](http://www.a-z.ch/medien/az)         
+[Berner Zeitung](http://www.bernerzeitung.ch/)         
+[Freiburger Nachrichten](http://www.freiburger-nachrichten.ch/)         
+Liechtensteiner Volksblatt         
+[Schaffhauser Nachrichten](http://www.shn.ch/)         
+[St. Galler Tagblatt](http://www.tagblatt.ch/)         
 [Zürichsee Zeitung](http://www.zsz.ch/)
 
 ### Wochenzeitungen / Zeitschriften
 
-Deutschland:      
-[Der Spiegel](http://www.spiegel.de/)      
-[Focus](http://focus.de/)      
-[Die Zeit](http://www.zeit.de/index)      
-[DM](http://www.dm-online.de/)      
-[Bunte](http://www.bunte.de/)      
-[Bild der Wissenschaft](https://www.wissenschaft.de/)      
+Deutschland:         
+[Der Spiegel](http://www.spiegel.de/)         
+[Focus](http://focus.de/)         
+[Die Zeit](http://www.zeit.de/index)         
+[DM](http://www.dm-online.de/)         
+[Bunte](http://www.bunte.de/)         
+[Bild der Wissenschaft](https://www.wissenschaft.de/)         
 [TIP - Berlin](http://www.tip-berlin.de/)
 
-Schweiz:      
-[CASH](http://www.cash.ch/)      
-[Der Brückenbauer](http://www.migrosmagazin.ch/leben/familie/artikel/die-brueckenbauer)      
-[Die Weltwoche](http://www.weltwoche.ch/)      
+Schweiz:         
+[CASH](http://www.cash.ch/)         
+[Der Brückenbauer](http://www.migrosmagazin.ch/leben/familie/artikel/die-brueckenbauer)         
+[Die Weltwoche](http://www.weltwoche.ch/)         
 [Sonntagszeitung](http://www.sonntagszeitung.ch/)
 
 ## Radio und Fernsehen
 
 ### Radio (Hörfunk)
 
-Deutschland:      
-[Deutschlandradio](http://www.dradio.de/) (live-stream, audio on demand)      
-[Deutsche Welle](http://www.dw-world.de/)      
-[Radio Bremen (Plattdeutsch)](http://www.radiobremen.de/bremeneins/serien/plattdeutsche_nachrichten/startseite102.html)      
+Deutschland:         
+[Deutschlandradio](http://www.dradio.de/) (live-stream, audio on demand)         
+[Deutsche Welle](http://www.dw-world.de/)         
+[Radio Bremen (Plattdeutsch)](http://www.radiobremen.de/bremeneins/serien/plattdeutsche_nachrichten/startseite102.html)         
 [Rundfunk Berlin-Brandenburg(rbb)](http://www.rbb-online.de/) (live hören)
 
 ### Fernsehen
 
 [3sat](http://www.3sat.de/)
 
-Deutschland:      
-[Das Erste ARD](http://www.ard.de/) (Arbeitsgemeinschaft der Rundfunkanstalten Deutschlands)      
-[Das Zweite (ZDF)](http://www.zdf.de/)      
-[Norddeutscher Rundfunk (NDR)](http://www1.ndr.de/index.html?redir=1)      
-[Radio Bremen (RB)](http://www.radiobremen.de/)      
-[Mitteldeutscher Rundfunk (MDR)](http://www.mdr.de/)      
-[Rundfunk Berlin-Brandenburg (rbb)](http://www.rbb-online.de/)      
-[Ostdeutscher Rundfunk Brandenburg - Fritz (ORB)](http://www.fritz.de/)      
-[Westdeutscher Rundfunk (WDR)](http://www.wdr.de/themen/homepages/homepage.jhtml)      
-[Hessischer Rundfunk (HR)](http://www.ard.de/home/intern/fakten/abc-der-ard/Saarlaendischer_Rundfunk__SR_/537542/index.html)      
-[Saarländischer Rundfunk (SR)](http://www.sr-online.de/home/1655/)      
-[Südwestrundfunk (SWR)](http://www.swr-online.de/)      
-[Bayerischer Rundfunk (BR)](http://www.br-online.de/)      
-Bayerisches Fernsehen Alpha      
-[Pro7](https://www.prosieben.de/) (privat)      
-[RTL](http://www.rtl.de/), [RTL2](http://www.rtl2.de/) (privat)      
-[SAT1](http://www.sat1.de/) (privat)      
-[VOX](http://www.vox.de/) (privat)      
+Deutschland:         
+[Das Erste ARD](http://www.ard.de/) (Arbeitsgemeinschaft der Rundfunkanstalten Deutschlands)         
+[Das Zweite (ZDF)](http://www.zdf.de/)         
+[Norddeutscher Rundfunk (NDR)](http://www1.ndr.de/index.html?redir=1)         
+[Radio Bremen (RB)](http://www.radiobremen.de/)         
+[Mitteldeutscher Rundfunk (MDR)](http://www.mdr.de/)         
+[Rundfunk Berlin-Brandenburg (rbb)](http://www.rbb-online.de/)         
+[Ostdeutscher Rundfunk Brandenburg - Fritz (ORB)](http://www.fritz.de/)         
+[Westdeutscher Rundfunk (WDR)](http://www.wdr.de/themen/homepages/homepage.jhtml)         
+[Hessischer Rundfunk (HR)](http://www.ard.de/home/intern/fakten/abc-der-ard/Saarlaendischer_Rundfunk__SR_/537542/index.html)         
+[Saarländischer Rundfunk (SR)](http://www.sr-online.de/home/1655/)         
+[Südwestrundfunk (SWR)](http://www.swr-online.de/)         
+[Bayerischer Rundfunk (BR)](http://www.br-online.de/)         
+Bayerisches Fernsehen Alpha         
+[Pro7](https://www.prosieben.de/) (privat)         
+[RTL](http://www.rtl.de/), [RTL2](http://www.rtl2.de/) (privat)         
+[SAT1](http://www.sat1.de/) (privat)         
+[VOX](http://www.vox.de/) (privat)         
 [arte (Europäischer Kulturkanal)](http://www.arte-tv.com/de/70.html)
 
-Österreich:      
+Österreich:         
 [Österreichisches Radio und Fernsehen (ORF 1 & 2)](http://www.orf.at/)
 
-Schweiz:      
+Schweiz:         
 [Schweizer Fernsehen (SF 1 & 2)](http://www.sf.tv/)
 
 ## Nachrichten
 
 ### Fernsehen
 
-[Tageschau, Nachtmagazin](http://www.tagesschau.de/), [Mittagsmagazin](http://www.br-online.de/mittagsmagazin/), (ARD) (mit Video)      
-Sportschau (ARD) (mit Video)      
-Bayern heute - Rundschau (mit Video)      
-[Deutsche Welle DW-TV](https://www.dw.com/en/live-tv/channel-english) (live mit Video)      
+[Tageschau, Nachtmagazin](http://www.tagesschau.de/), [Mittagsmagazin](http://www.br-online.de/mittagsmagazin/), (ARD) (mit Video)         
+Sportschau (ARD) (mit Video)         
+Bayern heute - Rundschau (mit Video)         
+[Deutsche Welle DW-TV](https://www.dw.com/en/live-tv/channel-english) (live mit Video)         
 Schweizer Fernsehen - Tagesschau (Video) [Archiv](http://www.sf.tv/archiv/index.php) (Video)
 
 ### Radio
 
-[B5 aktuell](http://www.br-online.de/b5aktuell/) (live hören 6-24 Uhr)      
-[DeutschlandRadio](http://www.dradio.de/) (live-stream)      
-[Info-Radio in Brandenburg](http://inforadio.de/) (mit Audio)      
-[Deutsche Welle Radio](http://www.dw-world.de/german/0,3367,705-184676,00.html) (mit Audio)      
-[Deutsche Welle Nachrichten](http://www.dw-world.de/german)      
-[ORF Österreicher Rundfunk](http://www.orf.at/) ([Radio-live Audio](http://radio.orf.at/))      
+[B5 aktuell](http://www.br-online.de/b5aktuell/) (live hören 6-24 Uhr)         
+[DeutschlandRadio](http://www.dradio.de/) (live-stream)         
+[Info-Radio in Brandenburg](http://inforadio.de/) (mit Audio)         
+[Deutsche Welle Radio](http://www.dw-world.de/german/0,3367,705-184676,00.html) (mit Audio)         
+[Deutsche Welle Nachrichten](http://www.dw-world.de/german)         
+[ORF Österreicher Rundfunk](http://www.orf.at/) ([Radio-live Audio](http://radio.orf.at/))         
 Schweizer Radio DRS (mit Audio)
 
 ## Agenturen
 
-[Agence France - Presse](https://www.afp.com/en/search/results/Agence%20France%20-%20Presse)      
+[Agence France - Presse](https://web.archive.org/web/20220926001805/https://www.afp.com/en/search/results/Agence%20France%20-%20Presse)         
 APA Austria Presse Agentur
 
 ## Podcasts
@@ -162,49 +162,49 @@ Tagesschau
 {{< tdclose >}}{{< tdopen >}}
 Podcasts
 {{< tdclose >}}{{< tdopen >}}
-(Video) (Audio) ([iTunes Video](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=92538468)) ([iTunes Audio](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=78518945))
+(Video) (Audio)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 ZDF - Heute Journal
 {{< tdclose >}}{{< tdopen >}}
 Podcasts
 {{< tdclose >}}{{< tdopen >}}
-([Video](http://podcast.heute.de/journal-video.xml)) ([Audio](http://podcast.heute.de/journal-audio.xml)) ([iTunes Video](http://www.heute.de/ZDFheute/inhalt/21/0,3672,5248821,00.html)) ([iTunes Audio](http://www.heute.de/ZDFheute/inhalt/21/0,3672,5248821,00.html))
+([Video](http://podcast.heute.de/journal-video.xml)) ([Audio](http://podcast.heute.de/journal-audio.xml))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="7" >}}
 [Deutsche Welle](http://www.dw-world.de/dw/0,2142,9540,00.html)
 {{< tdclose >}}{{< tdopen >}}
 Made in Germany
 {{< tdclose >}}{{< tdopen >}}
-([Video](http://blogs.dw-world.de/madeingermany/rss2.xml)) ([iTunes Video](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=208317025))
+([Video](http://blogs.dw-world.de/madeingermany/rss2.xml)) 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Nachrichten in Kürze
 {{< tdclose >}}{{< tdopen >}}
-([Audio](http://rss.dw-world.de/xml/podcast_nachrichten)) ([iTunes Audio](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=181306049))
+([Audio](http://rss.dw-world.de/xml/podcast_nachrichten))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Nachrichten - Langsam
 {{< tdclose >}}{{< tdopen >}}
-([Audio](http://rss.dw-world.de/xml/podcast_langsam_gesprochene_nachrichten)) ([iTunes Audio](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=80106652))
+([Audio](http://rss.dw-world.de/xml/podcast_langsam_gesprochene_nachrichten))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Journal - Interview
 {{< tdclose >}}{{< tdopen >}}
-([Audio](http://blogs.dw-world.de/journal/rss2.xml)) ([iTunes Audio](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=109050849&s=143443))
+([Audio](http://blogs.dw-world.de/journal/rss2.xml))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Stichwort
 {{< tdclose >}}{{< tdopen >}}
-([Audio](http://rss.dw-world.de/xml/podcast_stichwort)) ([iTunes Audio](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=108997412))
+([Audio](http://rss.dw-world.de/xml/podcast_stichwort))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Sprachbar
 {{< tdclose >}}{{< tdopen >}}
-([Audio](http://rss.dw-world.de/xml/podcast_sprachbar)) ([iTunes Audio](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=80105914))
+([Audio](http://rss.dw-world.de/xml/podcast_sprachbar))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Alltagsdeutsch
 {{< tdclose >}}{{< tdopen >}}
-([Audio](http://rss.dw-world.de/xml/podcast_alltagsdeutsch)) ([iTunes Audio](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=109002920))
+([Audio](http://rss.dw-world.de/xml/podcast_alltagsdeutsch))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen rowspan="2" >}}
 [Deutschlandfunk / Deutschland Radio Kultur](https://www.deutschlandradio.de/)
 {{< tdclose >}}{{< tdopen >}}
 Nachrichten
 {{< tdclose >}}{{< tdopen >}}
-([Audio](http://www.dradio.de/rss/podcast/nachrichten/)) ([iTunes Audio](http://www.dradio.de/rss/podcast/nachrichten/?mode=text))
+([Audio](http://www.dradio.de/rss/podcast/nachrichten/))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Informationen am Morgen
 {{< tdclose >}}{{< tdopen >}}
