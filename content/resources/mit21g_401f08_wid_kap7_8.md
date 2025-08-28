@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains the information regarding WIEDERHOLUNGS\xDCBUNGEN\
   \ - KAPITEL 7 + 8."
-file: /courses/21g-401-german-i-fall-2008/5358c5dfa54e975b31ee41e748701597_MIT21G_401F08_wid_kap7_8.pdf
+file: /ol-ocw-studio-app/courses/21g-401-german-i-fall-2008/5358c5dfa54e975b31ee41e748701597_MIT21G_401F08_wid_kap7_8.pdf
 file_size: 608225
 file_type: application/pdf
 learning_resource_types: []

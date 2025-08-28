@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding modal.
-file: /courses/21g-401-german-i-fall-2008/aaf7b6042803d6808adf073dda81f139_MIT21G_401F08_modal.pdf
+file: /ol-ocw-studio-app/courses/21g-401-german-i-fall-2008/aaf7b6042803d6808adf073dda81f139_MIT21G_401F08_modal.pdf
 file_size: 562565
 file_type: application/pdf
 learning_resource_types: []
