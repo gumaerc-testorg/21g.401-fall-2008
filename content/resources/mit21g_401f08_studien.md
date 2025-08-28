@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains the information regarding studienf\xE4cher an\
   \ der universit\xE4t."
-file: /courses/21g-401-german-i-fall-2008/c5d73dc075883660262c0af96f4e2ab9_MIT21G_401F08_studien.pdf
+file: /ol-ocw-studio-app/courses/21g-401-german-i-fall-2008/c5d73dc075883660262c0af96f4e2ab9_MIT21G_401F08_studien.pdf
 file_size: 104082
 file_type: application/pdf
 learning_resource_types: []
