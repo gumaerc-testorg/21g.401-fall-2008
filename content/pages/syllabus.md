@@ -37,7 +37,7 @@ Please record the time you spend working with the different parts of the audio p
 Audio Program
 -------------
 
-**Regular daily work with the audio program for short periods of time (15-20 minutes) is strongly suggested.** For the listening exercises, you may also work from your computer at home, given that you have a microphone installed to your home computer. The audio program files are available to registered students through the course Web site. For the DL recorder, go to [Dartmouth College Language Recorder](http://projects.oscelot.org/gf/project/dlrecorder/). You will receive additional information on the DL recorder and the audio files on the first day of class.
+**Regular daily work with the audio program for short periods of time (15-20 minutes) is strongly suggested.** For the listening exercises, you may also work from your computer at home, given that you have a microphone installed to your home computer. The audio program files are available to registered students through the course Web site. For the DL recorder, go to {{% resource_link "d6ed7de5-8faf-4881-b714-5785810e7163" "Dartmouth College Language Recorder" %}}. You will receive additional information on the DL recorder and the audio files on the first day of class.
 
 Homework
 --------

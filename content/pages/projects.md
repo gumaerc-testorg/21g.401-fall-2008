@@ -13,7 +13,7 @@ Students were asked to form groups and give a presentation at the end of the sem
 
 Project outline ({{% resource_link 48d51cf2-9c9f-feb2-ca61-20ecf711e730 "PDF" %}})
 
-[Resource Links](http://web.mit.edu/21f.401/www/materialien.html)
+{{% resource_link "29d280e8-8435-4cfa-aa37-b8321b72cfcb" "Resource Links" %}}
 
 Group 1, "Bern, Schweitz \[Schweiz\]." ({{% resource_link db781010-fc86-a449-c90b-4addbb293224 "PDF - 1.5MB" %}})
 
