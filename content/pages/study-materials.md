@@ -29,8 +29,8 @@ Language background questionnaire ({{% resource_link "afe05511-7c75-05b4-24d2-1c
 
 Essay corrections key ({{% resource_link "6eb347f0-d6bc-eaca-5d57-9f89f1194bd5" "PDF" %}})
 
-Die Prinzen, "\[Deutschland\]({{% resource_link "4e40a6ba-10c6-47a0-8609-3aee06864c47" "http://www.youtube.com/watch?v=UH4S9RQv5Os" %}}  
-)." (video hosted by YouTube) Lyrics in {{% resource_link "31075eba-4424-4be5-837a-68f8f242b7ea" "German" %}}, {{% resource_link "3956fabc-beab-4901-a804-4d2c312ff837" "English" %}}.
+Die Prinzen, "\[Deutschland\]([http://www.youtube.com/watch?v=UH4S9RQv5Os](http://www.youtube.com/watch?v=UH4S9RQv5Os)  
+)." (video hosted by YouTube) Lyrics in [German](http://german.about.com/library/blmus_prinzen01.htm), [English](http://german.about.com/library/blmus_prinzen01e.htm).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -53,7 +53,7 @@ Numbers 1-20, telling time, asking information Rollenspiele
 Introduction to chapter 1: Dialoge und Wortschatz
 
 {{< tdclose >}}{{< tdopen >}}
-Mo-Do feat. Bangbros, "{{% resource_link "920d3e55-7ad8-4a23-8e86-6ca6c651c430" "Eins Zwei Polizei" %}}." (video hosted by YouTube) Lyrics ({{% resource_link "ca17fece-67f2-25c6-a4cf-39458de1f201" "PDF" %}})
+Mo-Do feat. Bangbros, "[Eins Zwei Polizei](http://www.youtube.com/watch?v=Sdw682H5Cgg)." (video hosted by YouTube) Lyrics ({{% resource_link "ca17fece-67f2-25c6-a4cf-39458de1f201" "PDF" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
@@ -440,7 +440,7 @@ Vor dem Video: "Studieren in Deutschland," Sudesh Sharma, Christian Fahé; Brief
 
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "3cdb07a2-0bda-405c-8402-bbd555bab999" "Arbeitsblatt" %}}
+[Arbeitsblatt](http://www.nthuleen.com/102/hausaufgaben/ws05wechsel2.html)
 
 Ein interview ({{% resource_link "770935bc-8b77-f4ce-e1b8-c74b52172020" "PDF" %}})
 
@@ -468,9 +468,9 @@ Prüfung zu Kapiteln 5+6
 Einführung: Kapitel 7 Dialoge
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "a13cb72c-924b-4679-ad0b-faf8bd595ba1" "Video: \"Wanderschaft\" von Franz Schubert" %}} (video hosted by YouTube)
+[Video: "Wanderschaft" von Franz Schubert](http://www.youtube.com/watch?v=e5gWlmJqaB4) (video hosted by YouTube)
 
-{{% resource_link "878a07a1-83bf-4772-bca6-5c74aee754bf" "Video: \"Wanderers Nachtlied\" von Franz Schubert" %}} (video hosted by YouTube)
+[Video: "Wanderers Nachtlied" von Franz Schubert](http://www.youtube.com/watch?v=jtkwWDfsqpw) (video hosted by YouTube)
 
 More information on Goethe can be found on the {{% resource_link "30b41879-4ff7-243b-5001-924e19ec8a74" "related resources" %}} page.
 
